@@ -1,0 +1,113 @@
+/* index.html */
+#content .left{
+	float:left;
+	margin: 0 30px 18px 0;
+}
+
+#content h1{
+	width:100%;
+	height:100%;
+	text-align:center;
+	color: #585858;
+	font-size:45px;
+}
+
+#content h2{
+	color:#6633FF;
+	font-size:30px;
+	font-family:"Times New Roman",Times, serif;
+	font-style:italic;
+	font-weight: 900;
+}
+
+#content .style1{
+	font-family:"Arial Black";
+	font-weight: bold;
+	font-size: 22px;
+}
+
+#content .style2{
+	font:26px Georgia,serif;
+	letter-spacing: 2px;
+	margin: 0 0 20px 0;
+}
+
+#content .style2:first-letter{
+	font-size:150%;
+	font-weight:bold;
+}
+
+a{
+	text-decoration:none;
+	color:#FF6633;
+	font-weight: bold;
+}
+
+.clear {
+	clear:both;
+}
+
+#content .course{
+	font-size: 20px;
+	margin-left:25px;
+	text-indent:10px;
+}
+
+/* interest.html */
+#content h3{
+	width:100%;
+	height:100%;
+	text-align:left;
+	color: #585858;
+	font-size:45px;
+}
+
+#content .interest{
+	font-size: 20px;
+	margin-left:25px;
+	text-indent:10px;
+}
+
+#content dd{
+	text-align: left;
+}
+#content li{
+	padding: 10px 0;
+	font-weight:bold;
+}
+#content .t{
+	style:center;
+}
+#content table{
+	margin:0 auto;
+	border-style:double;
+	border-spacing:1px;
+	border-width:5px;
+	border-color:black;
+	font-size:20px;
+}
+#content tr.h1{
+	background-color: #D8D8D8;
+	text-align: center;
+}
+#content td{
+	border-color: #D8D8D8;
+	border-style:solid;
+	border-width:2px;
+	padding-right:50px;	
+}
+#content td.c1{
+	color: #FF6699;
+}
+#content td.c2{
+	font-style:italic;
+}
+
+/* portfolio-item.html */
+#content img.folder{
+	width:5em;
+	height:5em;
+}
+#content .portfolio-item{
+	font-weight:bold;
+}
